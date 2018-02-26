@@ -12,10 +12,10 @@ body {
     outline: 7px groove black;
     background: linear-gradient(
     to bottom,
-  rgb(122, 160, 160),
-  rgb(122, 160, 160) 50%,
-  rgb(122, 160, 170) 50%,
-  rgb(122, 160, 170)
+    rgb(122, 160, 160),
+    rgb(122, 160, 160) 50%,
+    rgb(122, 160, 170) 50%,
+    rgb(122, 160, 170)
     );
     background-size: 100% 20px;
 }
